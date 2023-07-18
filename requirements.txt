@@ -1,0 +1,13 @@
+langchain==0.0.160
+pypdf
+python-dotenv
+streamlit
+openai
+tiktoken
+faiss-cpu
+pandas
+requests
+kor==0.9.2
+beautifulsoup4
+markdownify
+camelot-py[all]
